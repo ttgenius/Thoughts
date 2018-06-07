@@ -28,11 +28,12 @@ Personally I don’t think there’s too much difference about my learning strat
 Exams?
 Not sure if works for other universities. But what I do for UC:
 1.Make a revision plan according to your exam schedule. The plan might be rigorous. That’s fine. You don’t have to follow it exactly. It just gives you an overall picture of how many materials you need to revise, how much time you need to devote etc. General rule for myself: 
-(1) Review part of the course first if the its exam is the last; 
-(2) Two subjects a day;
-(3) Start revision a week before the study break starts.
+(1) Start revision a week before the study break starts;
+(2) Review part of the course first if the its exam is the last;
+(3) Two subjects a day;
+(4) Try to study the subject more in the afternoon if its exam is in the afternoon and its mock exams should mostly be completed in the afternoon.
 
-2.Revision plan: Personally I always do two past papers first. Not necessarily in a set time. The aim is to know what they are going to ask. Then I look at/make notes from lecture slides, do the tuts/labs again based on what I concluded from doing the past papers. Eg. This point is likely to appear again because it was in the past 2 years; They did not ask this point in the past two years, very likely to appear this year etc. While going over the lecture slides,  I’ll still do some extra past papers based on how many are available but always save at least 1-2 for mock. When finished all slides and tuts,  I do mock exams in a strictly set time. That’s usually two days before the actual exam. On the day before the exam, I revise all the mistakes I made during the revision eg.do all the wrong questions again. On the exam day, I do nothing.
+2.Revision plan: Personally I always do two past papers first. Not necessarily in a set time. The aim is to know what they are going to ask. Then I look at/make notes from lecture slides, do the tuts/labs again based on what I concluded from doing the past papers. Eg. This point is likely to appear again because it was in the past 2 years; They did not ask this point in the past two years, very likely to appear this year etc. While going over the lecture slides,  I’ll still do some extra past papers based on how many are available but always save at least 1-2 for mock. When finished all slides and tuts,  I do mock exams in a strictly set time and same time period of the day as the exam(morning or afternnon). That’s usually two days before the actual exam. On the day before the exam, I revise all the mistakes I made during the revision eg.do all the wrong questions again. On the exam day, I do nothing.
 
 3.During the study break, lecturers will usually hold Q&A sessions. Definitely going to them and not afraid to ask!  Also very important to check your past paper answers with your fellows.  Explain to others will help you learn as well!
 
